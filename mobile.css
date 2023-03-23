@@ -1,13 +1,13 @@
 @media screen and (max-width: 767px) {
   body {
     width: 100%;
-    height: auto;
+    height: 100vh;
     background-color: whitesmoke;
   }
   #canvas {
     display: block;
     width: auto;
-    height: auto;
+    height: 100vh;
   }
   .logo {
     max-width: 150px;
