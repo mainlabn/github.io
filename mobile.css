@@ -16,6 +16,7 @@
   iframe {
     display: block;
     margin: 0 auto;
+    width: 10%;
   }
   .icon-container {
     display: flex;
@@ -23,8 +24,8 @@
     align-items: center;
     margin-bottom: 20px;
   }
-  iframe[name="ya-form-6416e293068ff01b64436db6"] {
-    width: 50%;
+   #ya-form-6416e293068ff01b64436db6 * {
+    font-size: 14px;
   }
 }
 
